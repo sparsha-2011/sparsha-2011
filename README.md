@@ -1,15 +1,10 @@
-<h2 align="left">Hi, I'm Sparsha, a Software Developer at CGI</h2>
+<h2 align="left">Hi, My name is Sparsha and I'm a Software Developer at CGI!</h2> 
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
-
-<p align="left">I'm a full stack developer transitioning into the Physical AI and robotics simulation space. Currently deep in the NVIDIA Omniverse and OpenUSD ecosystem — building toward roles in simulation engineering, synthetic data generation, and developer advocacy for Physical AI platforms.</p>
-
-###
-
 
 <p align="left">📖 Physical AI: <a href="https://github.com/sparsha-2011/physical-ai-learning-journey">physical-ai-learning-journey</a></p>
 
