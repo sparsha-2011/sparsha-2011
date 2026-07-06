@@ -6,15 +6,8 @@
 
 ###
 
-<p align="left">📖 Physical AI: <a href="https://github.com/sparsha-2011/physical-ai-learning-journey">physical-ai-learning-journey</a></p>
-
-###
-
----
-
-###
-
 <p align="left">🤖 Physical AI & Robotics</p>
+<p align="left">📖 Physical AI: <a href="https://github.com/sparsha-2011/physical-ai-learning-journey">physical-ai-learning-journey</a></p>
 
 ###
 
