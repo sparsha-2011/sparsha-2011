@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Sparsha — Software Developer at CGI, pivoting into Physical AI & Robotics Simulation 🤖</h2>
+<h2 align="left">Hi, I'm Sparsha, a Software Developer at CGI</h2>
 
 ###
 
@@ -10,9 +10,8 @@
 
 ###
 
-<p align="left">🔭 Currently studying: <strong>OpenUSD Certification</strong> · NVIDIA Omniverse · Isaac Sim</p>
-<p align="left">🎯 Target domain: <strong>Physical AI · Robotics Simulation · Digital Twins</strong></p>
-<p align="left">📖 Learning journal: <a href="https://github.com/sparsha-2011/physical-ai-learning-journey">physical-ai-learning-journey</a></p>
+
+<p align="left">📖 Physical AI: <a href="https://github.com/sparsha-2011/physical-ai-learning-journey">physical-ai-learning-journey</a></p>
 
 ###
 
