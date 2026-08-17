@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/OpenUSD-In%20Progress-76b900?style=flat-square&logo=nvidia&logoColor=white" height="30" alt="OpenUSD" />
+  <img src="https://img.shields.io/badge/OpenUSD-Completed-76b900?style=flat-square&logo=nvidia&logoColor=white" height="30" alt="OpenUSD" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Isaac%20Sim-In%20Progress-76b900?style=flat-square&logo=nvidia&logoColor=white" height="30" alt="Isaac Sim" />
   <img width="12" />
